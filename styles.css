@@ -1,0 +1,44 @@
+#m{
+    background-color: dimgray;
+    text-align: center;
+    padding: 15px;
+}
+#m a{
+    padding: 10px;
+}
+#header{
+    text-align: center;
+}
+#img{
+    width:auto;
+    height: auto;
+}
+#img img{
+    width: auto;
+    height: auto;
+    float: left;
+    margin-right: 150px;
+    padding-left: 350px;    
+}
+#img para {
+    margin-right: 100px;  
+}
+#img para p{
+    float: right;
+}
+#button button{
+
+    background-color:orangered;
+    color: aliceblue;
+    border: 0px;
+}
+.footer{
+    background-color:black;
+}
+.footer p{
+    color: aliceblue;
+    text-align: center;
+}
+.button2 button{
+    background-color: orangered;
+}
